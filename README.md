@@ -39,7 +39,8 @@ WAU - кол-во активных пользователей сайта.
 и т.д.															
 
 ## Используемые файлы:
-- [Данные для задачи 1 (конкуренты)](https://docs.google.com/spreadsheets/d/1tubejpvc1MfNtHGAIleLyQRhuATnU928fn4D00ReBdg/edit#gid=1329698446)
-- [Данные для задачи 1 (исторические данные)](https://docs.google.com/spreadsheets/d/1Prx7WgnzrOk8IajtyZQfaApJkdDmMBRsVAkZMiy_LFM/edit?usp=sharing)
-- [Данные для задачи 2](https://docs.google.com/spreadsheets/d/178uKguYV5JuiaiLyy8LQH-b2XjBgWylIkSy2FEv034Q/edit?usp=sharing)
-- [Sqllight для проверки запросов](https://drive.google.com/file/d/1VbIX8fCNqPvJ0uBJhQxPnjk3FbKFFkFL/view?usp=sharing)
+В репозитории прикреплены файлы: 
+- Данные для задачи 1 (конкуренты) `task_1.1.xlsx`
+- Данные для задачи 1 (исторические данные) `task_1.2.xlsx`
+- Данные для задачи 2 `task_two.xlsx`
+- sqlite для проверки запросов `ga.sqlite`
